@@ -1,4 +1,4 @@
-# Snake-Game# Snake Game
+# Snake-Game
 
 A simple Snake Game implemented using the Turtle graphics library in Python.
 
