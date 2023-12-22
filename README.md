@@ -4,7 +4,7 @@ A simple Snake Game implemented using the Turtle graphics library in Python.
 
 ## Instructions
 
-1. Run the `snake_game.py` script to start the game.
+1. Run the `snake.ipynb` script to start the game.
 2. Use the arrow keys (Up, Down, Left, Right) to control the snake.
 3. The snake grows longer each time it eats the food.
 4. Avoid collisions with the snake's own body and the screen boundaries.
